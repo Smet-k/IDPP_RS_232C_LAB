@@ -1,9 +1,0 @@
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/IDPPCOMRECV.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/install.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/install/strip.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/IDPPCOMRECV_autogen_timestamp_deps.dir
-/home/yk/IDPPCOMRECV/build/Desktop-Debug/CMakeFiles/IDPPCOMRECV_autogen.dir
